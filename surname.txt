@@ -1,4 +1,3 @@
 sam
 arthur
 max
-hero
